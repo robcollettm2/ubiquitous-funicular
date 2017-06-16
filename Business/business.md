@@ -15,3 +15,7 @@
 * Each user has their own folder structure hosted in the cloud. Shared projects can be moved in to the location of their choice on their hosted structure
 * As each user has their own structure it will be easier to manage and caching made easier
 * Later on we could have the backend mechanism of grouping users based on email and thus projects (for reporting and such like)
+
+#### Groups
+
+A user could belong to one or many Groups. A group is simply a list of Users. It's up for debate who the curators of groups could be as groups don't 'belong' to anyone (unless a user)
