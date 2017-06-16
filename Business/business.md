@@ -18,4 +18,4 @@
 
 #### Groups
 
-A user could belong to one or many Groups. A group is simply a list of Users. It's up for debate who the curators of groups could be as groups don't 'belong' to anyone (unless a user)
+>A user could belong to one or many Groups. A group is simply a list of Users. It's up for debate who the curators of groups could be as groups don't 'belong' to anyone (unless a user)
