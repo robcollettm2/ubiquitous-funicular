@@ -1,4 +1,4 @@
-## Project
+## Local / Cloud Project Hierarchy
 
 > Currently a project can be created in the cloud and locally. Projects can be locally imported from many different sources. 
 
