@@ -4,6 +4,8 @@
 
 >To somewhat manage this the interface is split in to modules suited to a particular task (bill production, rate pricing etc.). This means the user must move around screens to, sometimes, perform the simplest of tasks.
 
+>Some elements of current ui is bespoke making the user 'learn' how something works.
+
 To combat these issues:
 
 - Simplify the process in to one screen along the lines of Microsoft Excel meaning the user doesn't have to jump between screens.
@@ -11,3 +13,4 @@ To combat these issues:
   - A menu allowing the user to show/hide panels with like-minded functionality contained therein
 - Consolidate core functionality (add,delete,cut,copy,paste)
 - Rationalise functionality and remove functions where there is more one way to do it
+- Use standard ui patterns/controls (i.e. don't create our own)
