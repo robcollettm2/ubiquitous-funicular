@@ -11,6 +11,9 @@ To combat these issues:
 - Simplify the process in to one screen along the lines of Microsoft Excel meaning the user doesn't have to jump between screens.
 - Give the user the option to turn on/off groups of function ala Visual Studio panes.
   - A menu allowing the user to show/hide panels with like-minded functionality contained therein
+  
+   [![Panes](http://www.metre2.co.uk/images/markdown/visualstudiopanes.png)](http://www.metre2.co.uk/images/markdown/visualstudiopanes.png)
+  
 - Consolidate core functionality (add,delete,cut,copy,paste)
 - Rationalise functionality and remove functions where there is more one way to do it
 - Use standard ui patterns/controls (i.e. don't create our own)
