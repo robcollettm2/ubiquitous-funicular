@@ -19,3 +19,7 @@ Therefore the Microsoft UWP platform should be utilitised (along side the cloud 
   - Tablet reporting
   - Tablet viewing applications
   - Keyboard-based search tool
+- Managed delivery tool via the Windows Store
+- Managed payment method via the Windows Store
+  - Trial full version
+  - Single payment covering storage costs only (no human support)
