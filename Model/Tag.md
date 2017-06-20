@@ -14,6 +14,6 @@
 
 | Field        | Reason           | 
 | ------------- |:-------------:|
-| Link | Can be tag or incoporated into description field     |
+| Link | Can be tag or incorporated into description field     |
 
 (n.b. all removed fields can be set up as tags)
