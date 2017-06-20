@@ -1,0 +1,1 @@
+EnquiryVendorAdjustment and MaterialVendorAdjustment to use Adjustment object
