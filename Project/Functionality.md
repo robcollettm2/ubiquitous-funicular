@@ -3,7 +3,7 @@
 - Copy
 - Move
 - Rename
-- Password (no longer required)
+- ~~ Password (no longer required) ~~
 - Isolate (no longer required)
 - Backup manager (no longer required (onus on user o handle 'backups' via milestones))
 - Remove option to create manual backup
