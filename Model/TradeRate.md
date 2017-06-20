@@ -3,7 +3,7 @@
 | Field        | Type           | 
 | ------------- |:-------------:|
 | Id      | Guid |
-| EnquiryVendorId      | Guid      |
+| TradeVendorId      | Guid      |
 | ItemId      | Guid      |
 | Rate | string      |
 | RateDate | datetime      |
