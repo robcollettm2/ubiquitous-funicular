@@ -8,4 +8,6 @@
 
 # Properties
 
+- Name (string)
+
 > (To store resource library data)
