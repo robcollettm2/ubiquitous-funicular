@@ -8,6 +8,4 @@
 
 # Properties
 
-- ResourceLibrary
-
 > (To store resource library data)
