@@ -3,13 +3,19 @@
 - Copy
 - Move
 - Rename
-- ~~ Password (no longer required) ~~
-- Isolate (no longer required)
-- Backup manager (no longer required (onus on user o handle 'backups' via milestones))
-- Remove option to create manual backup
-- Audit entries (no longer required)
 - Milestone management
 - Project Sharing (handle who can edit/read the project)
+- Project Homepage
+- Export project
+  - CITE
+  - Excel
+  
+## Removed
+
+- Password (no longer required)
+- Isolate (no longer required)
+- Remove option to create manual backup
+- Backup manager (no longer required (onus on user to handle 'backups' via milestones))
+- Audit entries (no longer required)
 - Project Subscriptions (no longer required)
   - We should incorporate change notifications in to the software
-- Project Homepage
