@@ -10,3 +10,6 @@
 - Audit entries (no longer required)
 - Milestone management
 - Project Sharing (handle who can edit/read the project)
+- Project Subscriptions (no longer required)
+  - We should incorporate change notifications in to the software
+- Project Homepage
