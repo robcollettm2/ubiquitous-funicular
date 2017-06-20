@@ -6,7 +6,7 @@
 | OwnerId      | Guid? |
 | Name | string      |
 | Vendor | string      |
-| Posted | decimal      |
+| Posted | string      |
 | MultipliedPosted | decimal      |
 | Value | decimal      |
 | PostedResourceCount | int     |
