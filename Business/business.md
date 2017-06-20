@@ -12,6 +12,7 @@
 * Remove the concept of businesses and regions
 * The user becomes an 'owner' of a project
 * Each project can be shared with email addresses (or not)
+  - Each shared user can be a read only/read-write user
 * Each user has their own folder structure hosted in the cloud. Shared projects can be moved in to the location of their choice on their hosted structure
 * As each user has their own structure it will be easier to manage and caching made easier
 * Later on we could have the backend mechanism of grouping users based on email and thus projects (for reporting and such like)
