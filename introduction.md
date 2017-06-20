@@ -36,6 +36,7 @@
 - Windows 10 UWP Store application targetting the widest range of OS's possible
     - Single simple low payment and manage user through the store
     - From store acquisition to use all managed through the software
+    - No expiry date
 - Simple website page explaining what the product is and it's functionality (link in store)
 - Note very function and replicate where it makes sense
     - Hide those seldom functions away and bring the often used functions to the front of the ui
