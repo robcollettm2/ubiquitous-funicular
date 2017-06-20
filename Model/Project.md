@@ -24,3 +24,5 @@
 | CostM2 | to be made soft field based on gifa      |
 | CostDate | To be made tag       |
 | Version | To be made tag       |
+
+(n.b. all removed fields can be set up as tags)
