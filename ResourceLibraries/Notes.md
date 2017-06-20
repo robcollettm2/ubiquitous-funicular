@@ -1,0 +1,4 @@
+- Allow the user to have and choose between one or many resource libraries
+  - Present in many different places such as:
+    - Cached locally from cloud
+    - Local export
