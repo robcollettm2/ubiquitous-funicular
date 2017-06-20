@@ -1,4 +1,4 @@
-# Business
+## Business
 
 >A business is currently used for the following purposes:
 
