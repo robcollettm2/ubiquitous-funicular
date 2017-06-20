@@ -20,5 +20,6 @@ The following tag types should be used (enum.). These types are only available t
 - ItemResourceDim
 - Node
 - ActivityCode
+- CostCode
 
 These tags (and types) should be applied en masse if required.
