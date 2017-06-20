@@ -1,4 +1,4 @@
-# Vendors
+## Vendors
 
 >We currently store a lot of project vendor properties which aren't used moving forward. The user tends to use the name of the vendor and it's email only.
 
