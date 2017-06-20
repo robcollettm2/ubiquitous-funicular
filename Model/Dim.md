@@ -3,7 +3,7 @@
 | Field        | Type           | 
 | ------------- |:-------------:|
 | Id      | Guid |
-| ItemId      | Guid      |
+| ForeignId      | Guid      |
 | Times | string      |
 | Dims | string      |
 | Total | string      |
