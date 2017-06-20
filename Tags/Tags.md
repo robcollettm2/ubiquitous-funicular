@@ -17,3 +17,5 @@ The following tag types should be used (enum.):
 - ItemDim
 - ItemResourceDim
 - Node
+
+These tags (and types) should be applied en masse if required.
