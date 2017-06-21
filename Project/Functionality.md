@@ -1,14 +1,17 @@
 ## Functionality
 
+- Delete
+- Add
+- Add Folder
 - Copy
 - Move
 - Rename
 - Milestone management
 - Project Sharing (handle who can edit/read the project)
 - Project Homepage
-- Export project
-  - CITE
-  - Excel
+- Export 
+- Import
+- Tags
   
 ## Removed
 
